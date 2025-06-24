@@ -263,6 +263,11 @@ _______
 
 _______
 
+### CS Courses and Curricula
+- [ETHZ CS Notes](https://cs.shivi.io/) - A full set of well-organized lecture notes and resources following ETH Zurich's computer science curriculum.
+
+_______
+
 <!-- YOUR_CONTENT_GOES_HERE -->
 
 
