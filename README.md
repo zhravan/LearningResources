@@ -4,7 +4,11 @@
 
 
 
-# [Learning Resources - OhMyLearning](https://github.com/shravan20/LearningResources)
+<div align="center">
+  <h1><a href="https://github.com/shravan20/LearningResources">Learning Resources - OhMyLearning</a></h1>
+</div>
+
+
 
 <!-- COVER IMAGE -->
 
