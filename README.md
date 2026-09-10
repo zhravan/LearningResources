@@ -141,7 +141,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
   - [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323) : The Code Book tells the story of the most powerful intellectual weapon ever known: secrecy. Simon Singh offers the first sweeping history of encryption, tracing its evolution and revealing the dramatic effects codes have had on wars, nations, and individual lives.
   - [Microservice: From Design To Deployment](https://drive.google.com/file/d/1J1et2R03AOADBUvkSLo_lBFTicgMvPg6/view?usp=sharing) : This book, by Chris Richardson
 with Floyd Smith(Nginx), is having set of articles which contain information about implementing microservices.
-  - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) : Free and open-source TypeScript reference updated for TypeScript 7, with 10,300+ GitHub stars.
+  - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) : Free, open-source TypeScript reference by Simone Poggiali.
 
 ###  Open APIs :
 - [Public API's](https://github.com/public-apis/public-apis#development) : Github Link for all the popular public API's.
