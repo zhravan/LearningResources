@@ -69,6 +69,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 ### Resume Builder
 
   - [Resume Matcher](www.resumematcher.fyi/) : Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.
+  - [ResumeAI](https://withresumeai.com/) : Free ATS checker + AI resume builder; State of ATS 2026 dataset (738 employers / 704 portal-verified).
   - [JSON Resume](https://jsonresume.org/) : The open source initiative to create a JSON-based standard for resumes. For developers, by developers.
   - [resumake](https://resumake.io/) : Resumake is a tool for automatically generating beautiful resumes.
   - [WTF Resume](https://wtfresume.com/resume-builder) : Modern real-time design and 100% free resume builder.
