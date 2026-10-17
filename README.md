@@ -148,6 +148,7 @@ with Floyd Smith(Nginx), is having set of articles which contain information abo
 - [Public API's](https://github.com/public-apis/public-apis#development) : Github Link for all the popular public API's.
 - [REQ | RES](https://reqres.in/) : Hosted REST-API ready to respond to your AJAX requests.
 - [CountAPI](https://countapi.xyz/) :  This API allows you to create simple numeric counters. IaaS, Integer as a Service.
+- [CurlShot](https://curlshot.com/docs) : Hosted screenshot API that turns a URL or HTML into a PNG, JPEG, WebP or PDF with one GET request; free plan with 100 screenshots/month.
 
 
 
