@@ -279,6 +279,7 @@ _______
 
 ### Developer tools
 - [Wireframe Designer](https://wiredjs.github.io/designer/) - Mockups and wire-framing tool built using web components. Uses hand-drawn sketchy controls.
+- [APPLORE](https://applore.app/app-icon-generator) - Free tool that exports every iOS, Android and web app icon size from one image, no sign-up needed.
 
 _______
 
