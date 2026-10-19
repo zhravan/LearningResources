@@ -77,6 +77,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
   - [Resuminator](https://resuminator.in/) : Resuminator allows you to build beautiful single-page resumes; without the hassle. The easiest resume-builder out there with intuitive drag-n-drop & WYSIWYG editor.
   - [Resume-Generator](https://nitish6174.github.io/resume-generator/) : Web based editor to create Resume in a customizable template
   - [Tech Resume](https://main.doo2i0aqct9l.amplifyapp.com/) : Effortlessly make a job-worthy resume
+  - [CareJobs Healthcare Resume Bullet Writer](https://carejobs.now/tools/healthcare-resume-bullet-writer) : Free AI tool that turns nursing and healthcare duties into specific, ATS-friendly resume bullets and skills. No sign-up.
 
 
 
