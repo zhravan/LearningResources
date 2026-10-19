@@ -279,6 +279,7 @@ _______
 
 ### Developer tools
 - [Wireframe Designer](https://wiredjs.github.io/designer/) - Mockups and wire-framing tool built using web components. Uses hand-drawn sketchy controls.
+- [Frink](https://frink.dev) - Fine-tuned automation for everyone: visual workflows where AI coding agents act on your tickets, errors and schedules, and ask before they change anything. Works with Claude Code, Codex, OpenCode, GitHub Copilot and Cursor. Local and open source, on macOS and Linux.
 
 _______
 
