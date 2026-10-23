@@ -280,6 +280,7 @@ _______
 ### Developer tools
 - [Wireframe Designer](https://wiredjs.github.io/designer/) - Mockups and wire-framing tool built using web components. Uses hand-drawn sketchy controls.
 - [Frink](https://frink.dev) - Fine-tuned automation for everyone: visual workflows where AI coding agents act on your tickets, errors and schedules, and ask before they change anything. Works with Claude Code, Codex, OpenCode, GitHub Copilot and Cursor. Local and open source, on macOS and Linux.
+- [vhr-bench](https://github.com/vpshostreview/vhr-vps-benchmark) - MIT-licensed Bash script that benchmarks a Linux server in about a minute: sysbench CPU and memory, plus fio 4k random read and write IOPS. Asks before installing sysbench or fio and uploads no results unless you pass an upload token.
 
 _______
 
