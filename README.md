@@ -280,6 +280,9 @@ _______
 ### Developer tools
 - [Wireframe Designer](https://wiredjs.github.io/designer/) - Mockups and wire-framing tool built using web components. Uses hand-drawn sketchy controls.
 - [APPLORE](https://applore.app/app-icon-generator) - Free tool that exports every iOS, Android and web app icon size from one image, no sign-up needed.
+- [Frink](https://frink.dev) - Fine-tuned automation for everyone: visual workflows where AI coding agents act on your tickets, errors and schedules, and ask before they change anything. Works with Claude Code, Codex, OpenCode, GitHub Copilot and Cursor. Local and open source, on macOS and Linux.
+- [deed.page](https://deed.page/) - Static hosting for AI agents and scripts: one HTTP PUT or the MCP server publishes an HTML file or folder to a permanent `https://<slug>.deed.page` URL. Free plan with no signup; open-source agent skill at [f-o-x11/deed-page-skill](https://github.com/f-o-x11/deed-page-skill).
+- [agent-qa](https://github.com/vostride/agent-qa) : Natural-language testing for web, Android, and iOS with advanced memidex memory and self-improvement.
 
 _______
 
