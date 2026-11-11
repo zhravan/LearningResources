@@ -265,6 +265,12 @@ _______
 
 _______
 
+### CAD and 3D Modeling Resources
+
+- [SolidCraft tutorial](https://solidcraftcad.com/solidcraft-tutorial) : Beginner walkthrough for SolidCraft, the open-source parametric 3D CAD app written in Rust, covering sketching, dimensions, extrude, fillet and STL export for 3D printing.
+
+_______
+
 ### Writers, Creatives and Blogs
 - [Cartoon Gravity](https://www.cartoongravity.com/) : Julian Simpson's public brain.
 - [Salman's Sea of Stories](https://salmanrushdie.substack.com/) : An ocean of stories from Salman Rushdie.
