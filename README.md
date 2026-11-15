@@ -150,7 +150,7 @@ with Floyd Smith(Nginx), is having set of articles which contain information abo
 - [REQ | RES](https://reqres.in/) : Hosted REST-API ready to respond to your AJAX requests.
 - [CountAPI](https://countapi.xyz/) :  This API allows you to create simple numeric counters. IaaS, Integer as a Service.
 - [CurlShot](https://curlshot.com/docs) : Hosted screenshot API that turns a URL or HTML into a PNG, JPEG, WebP or PDF with one GET request; free plan with 100 screenshots/month.
-- [GetYouTubeTranscript API](https://getyoutubetranscript.com/docs) : Hosted REST API that returns YouTube video transcripts as JSON with timestamps, plus video, channel and playlist search; 100 free credits on sign-up.
+- [GetYouTubeTranscript API](https://getyoutubetranscript.com/docs) : Hosted REST API that returns YouTube video transcripts as JSON with timestamps, plus video search and channel or playlist video lists; 100 free credits on sign-up.
 
 
 
