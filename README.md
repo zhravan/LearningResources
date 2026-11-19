@@ -80,6 +80,8 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
   - [CareJobs Healthcare Resume Bullet Writer](https://carejobs.now/tools/healthcare-resume-bullet-writer) : Free AI tool that turns nursing and healthcare duties into specific, ATS-friendly resume bullets and skills. No sign-up.
 
 
+  - [ResumeInvited](https://resumeinvited.com/) : Browser-based resume builder with templates, live preview, local drafts, and free PDF or editable Word downloads without sign-up.
+
 
 ### Domain - Learning Resources
 
