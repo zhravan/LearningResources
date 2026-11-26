@@ -284,6 +284,7 @@ _______
 - [deed.page](https://deed.page/) - Static hosting for AI agents and scripts: one HTTP PUT or the MCP server publishes an HTML file or folder to a permanent `https://<slug>.deed.page` URL. Free plan with no signup; open-source agent skill at [f-o-x11/deed-page-skill](https://github.com/f-o-x11/deed-page-skill).
 - [agent-qa](https://github.com/vostride/agent-qa) : Natural-language testing for web, Android, and iOS with advanced memidex memory and self-improvement.
 - [Pic2Vector](https://pic2vector.com/) - Free browser-based converter that traces PNG, JPG, and WebP images into SVG vector graphics locally with WebAssembly.
+- [JWT Decoder](https://bestlatestapps.com/tools/jwt-decoder/) : Free browser tool that decodes a JSON Web Token into its header and payload, shows exp and iat as dates and checks HS256, RS256 or ES256 signatures.
 
 _______
 
